@@ -135,7 +135,7 @@ When to use: To demonstrate how specific code works..
 3.  Use Cases – Explain who the product is for and how it solves a problem.
 4.  Quick Demo or Screenshot – Provide a visual for better clarity.
 5. Installation Link  – Direct users to setup instructions.
-6. 
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
 1.  One-Sentence Purpose Statement – Clearly define what the product does and who it’s for.
 2. Bullet-Point Features – Highlight the key functionalities in a concise list.
